@@ -142,8 +142,6 @@ function Footer() {
 }
 
 function Order({ closeHour, openHour }) {
-  // console.log(openHour);
-
   return (
     <div className="order">
       <p>
